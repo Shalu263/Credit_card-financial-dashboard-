@@ -5,12 +5,14 @@ Objective
 
 To analyze 656K+ credit card transactions worth $55M revenue and $576M customer income, delivering insights into customer behavior, revenue drivers, and growth opportunities that enable data-driven marketing and risk strategies.
 
+
  
  Tools Used
 
 SQL → Data extraction, cleaning & feature engineering (transactions & customer profiles)
 
 Power BI → Data modeling, DAX measures, and interactive dashboards
+
 
 
 Process
@@ -36,6 +38,7 @@ Transaction Dashboard → Spend by category, revenue by channel, chip usage, qua
 Customer Dashboard → Revenue by demographics (age, income, marital status, job type, state)
 
 Trend Analysis → Weekly revenue growth, WoW comparison, retention patterns
+
 
 
 Key Insights & Business Value
@@ -79,6 +82,7 @@ Efficiency Gains
 Dashboard reduced manual reporting by ~15 hours/week
 
 Enabled leadership to identify revenue concentration risks and target marketing to high-value segments
+
 
 
 Business Impact
